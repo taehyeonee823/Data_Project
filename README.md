@@ -1,2 +1,2 @@
-# DB-analysys
-DB 분석 프로젝트
+# Data Analysys Project
+데이터 분석 프로젝트
