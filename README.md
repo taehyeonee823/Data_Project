@@ -1,2 +1,5 @@
-# Data Analysys Project
+## 프로젝트 소개
 Python pandas, matplotlib, seaborn Library를 활용한 2022-2025 수도권 전철 1호선 일자, 시간 별 승하차량 데이터 분석 및 시각화 프로젝트 (~ 26.06)
+
+## 멤버 소개
+김태현 (단국대학교 경영(산업)공학과 3학년)
